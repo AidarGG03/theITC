@@ -1,0 +1,7 @@
+May,5000
+June,6000
+July,5500
+August,5800
+September,5600
+October,5900
+November,5700

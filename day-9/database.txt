@@ -1,0 +1,2 @@
+
+Login: Aidar, password: 123, your image: /home/Pictures/lion.png

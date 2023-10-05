@@ -1,0 +1,2 @@
+Max number: 15
+Min number: 4
