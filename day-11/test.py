@@ -1,4 +1,4 @@
-import random, sys, os
+import random, sys, os, string, datetime
 #names = ["Aibek", "Joomart", "Adinai", "Ermek", "Atai", "Aslan", "Lyazat", "Salavat", "Daniyar", "Bolotbek", "Alymbek", "Dastan", "Maksat"]
 #random_names=set()
 #while len(random_names) <= 3:
@@ -41,6 +41,33 @@ import random, sys, os
 #elif user_choice==1 and computer_choice==3:
 #    print("you lose")
 #elif user_choice<computer_choice:
-#    print("you win") 
+#    print("you win")
 #elif user_choice>computer_choice:
 #    print("you lose")
+#for arg in sys.argv[1]:
+#   print(arg)
+#input1=input("Enter: ")
+#input2=input("Enter2: ")
+#size_input1=sys.getsizeof(input1)
+#size_input2=sys.getsizeof(input2)
+#print(size_input1, size_input2)
+#def generate_password(length):
+#   characters=string.digits+string.ascii_letters
+#   password ="".join(random.choice(characters) for _ in range(length))
+#   return password
+#try: 
+#   N=int(input("Enter length of password (int number): "))
+#   if N<=0:
+#      print("Length of password must be higher than 0")
+#   else:
+#      password=generate_password(N)
+#      print("Generation password: ", password)
+#except ValueError:
+#      print("Error: Enter integer number for length of password")
+#even_numbers=random.randrange(6,13,2)
+#print(even_numbers)
+#number_equal_five=random.randrange(5,101,5)
+#print(number_equal_five)
+#current_date=datetime.date.today()
+#future_date=current_date+datetime.timedelta(days=1000)
+#print(future_date)
